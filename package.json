@@ -1,8 +1,0 @@
-{
-  "name": "sloth-bpp215",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "node -e \"const fs=require('fs'); if(!fs.existsSync('public')) fs.mkdirSync('public'); fs.writeFileSync('public/index.html', '<!DOCTYPE html><html><head><meta http-equiv=\\\"refresh\\\" content=\\\"0; url=https://rpg-monica-sims-girlfriend.trycloudflare.com/\\\"></head><body>Connecting...</body></html>');\""
-  }
-}
