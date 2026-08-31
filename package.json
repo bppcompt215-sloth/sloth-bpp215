@@ -1,0 +1,6 @@
+{
+  "name": "sloth-bpp215",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BPP-215 Sloth VMS Edge Gateway on Vercel"
+}

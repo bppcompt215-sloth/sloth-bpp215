@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://rpg-monica-sims-girlfriend.trycloudflare.com/$1"
+    }
+  ]
+}
